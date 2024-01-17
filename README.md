@@ -1,4 +1,3 @@
-# RHETOR 198: A Traveler’s Guide to Beauty: Art, Language, Computers, Love, Trying
 <h1>RHETOR 198: A Traveler’s Guide to Beauty: Art, Language, Computers, Love, Trying</h1>
     <p>
 
